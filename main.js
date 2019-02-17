@@ -1,6 +1,5 @@
 import { InteractiveSVGRect } from './interactiveSVGRect.js';
 
-// TODO: fix new image
 // TODO: implement mask method
 
 /** The overlay SVGElement capturing user interactions */
